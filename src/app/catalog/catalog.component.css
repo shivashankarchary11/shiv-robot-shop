@@ -73,3 +73,13 @@
     padding: 10px;
     width: 100px;
   }
+
+  .discount{
+        margin-top: -15px;
+        color: palevioletred;
+  }
+
+  .strikethrough{
+    text-decoration: line-through;
+    font-size: 18px;
+  }
